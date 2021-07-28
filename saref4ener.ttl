@@ -29,7 +29,7 @@
   dcterms:source <https://saref.etsi.org/sources/saref4ener/> ;
   rdfs:seeAlso <https://www.etsi.org/deliver/etsi_ts/103400_103499/10341001/01.01.02_60/ts_10341001v010102p.pdf>
 .
-
+TESTING
 dcterms:created a owl:AnnotationProperty .
 dcterms:modified a owl:AnnotationProperty .
 dcterms:creator a owl:AnnotationProperty .
